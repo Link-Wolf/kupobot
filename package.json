@@ -1,0 +1,19 @@
+{
+  "name": "kupobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "13.14.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Link",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-cron": "^3.0.0",
+    "sqlite3": "^4.2.0"
+  }
+}
