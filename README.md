@@ -65,7 +65,7 @@ The bot isn't public and only run on 2 servers
 
 ### Features
 
-- Reacts to all messages containing `kupo`, with a random answer among several prewrotes
+- Reacts to all messages containing `kupo`, with a random answer among several predefined ones
 - Answers existential questions containing both `kupo` and `?` (on the same principle as [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8_Ball))
 - Answers all greetings (contained in the [config file](/config.json)) containing `kupo`
 - Reacts to a few other types of messages (like `quoi` -> `feur`)
