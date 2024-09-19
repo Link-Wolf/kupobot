@@ -42,10 +42,10 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 <div align="center">
 	<a href="https://nodejs.org" title="Go to Node.js homepage"><img src="https://img.shields.io/badge/Node.js-%3E=13.14-blue?logo=node.js&logoColor=white&style=for-the-badge&color=blue" alt="Made with Node.js"></a>
 	<a href="https://www.sqlite.org/index.html" title="Go to SQLite homepage"><img src="https://img.shields.io/badge/SQLite3-%3E=4.2-blue?logo=sqlite&logoColor=white&style=for-the-badge&color=blue" alt="Made with SQLite"></a>
@@ -53,7 +53,7 @@
 <div align="center">
   <a>
   </br>
-    <img src="https://p.kindpng.com/picc/s/709-7093161_moogle-png-download-moogle-final-fantasy-transparent-png.png" alt="kupobot header">
+    <img src="assets/kupo.png" alt="kupobot header">
   </a>
 </div>
 </br>
@@ -64,20 +64,22 @@ The bot isn't public and only run on 2 servers
 
 ### Features
 
-- Reacts to all messages containing `kupo`, with a random answer among several predefined ones
-- Answers existential questions containing both `kupo` and `?` (on the same principle as [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8_Ball))
-- Answers all greetings (contained in the [config file](/config.json)) containing `kupo`
-- Reacts to a few other types of messages (like `quoi` -> `feur`)
+-   Reacts to all messages containing `kupo`, with a random answer among several predefined ones
+-   Answers existential questions containing both `kupo` and `?` (on the same principle as [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8_Ball))
+-   Answers all greetings (contained in the [config file](/config.json)) containing `kupo`
+-   Reacts to a few other types of messages (like `quoi` -> `feur`)
 
 Commands :
-- `:help` to see all features
-- `:suggestion [user suggestion]` to send your idea directly from discord
-- `:annivset [day 1-31]/[month 1-12]` save your birthday so the bot can announce it on d day
-- `:annivdel [user tag]` **ADMINISTRATOR ONLY** delete the birthday of the specified user
+
+-   `/kupohelp` to see all features
+-   `/suggestion [user suggestion]` to send your idea directly from discord
+-   `/annivset [day 1-31]/[month 1-12]` save your birthday so the bot can announce it on d day
+-   `:annivdel [user tag]` **ADMINISTRATOR ONLY** delete the birthday of the specified user
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 The bot is private
@@ -85,35 +87,33 @@ The bot is private
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage examples
 
 <div align="center">
 	<em><h4>The help command</h4></em>
-	<img src="https://media.discordapp.net/attachments/453159761639112706/999650609403805796/unknown.png" alt="kupobot help">
+	<img src="assets/help.png" alt="kupobot help">
 	</br>
 	</br>
 	</br>
 	<em><h4>The existential question answer</h4></em>
-	<img src="https://media.discordapp.net/attachments/453159761639112706/999651281855578112/unknown.png" alt="kupobot help">
+	<img src="assets/8ball.png" alt="kupobot 8ball like">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
-- [ ] Add more usefull features
-- [x] Add back to top links
+-   [ ] Add more usefull features
 
 See the [open issues](https://github.com/Link-Wolf/kupobot/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
